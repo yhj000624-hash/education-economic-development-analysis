@@ -142,20 +142,15 @@ Key packages:
 
 # Repository Structure
 economic-education-analysis
-│
 ├── data
-│
 ├── R
-│ ├── data_cleaning.R
-│ ├── visualization.R
-│ └── shiny_app.R
-│
+├── data_cleaning.R
+├── visualization.R
+└── shiny_app.R
 ├── report
-│ └── Final_Report.pdf
-│
+└── Final_Report.pdf
 ├── presentation
-│ └── Presentation.pdf
-│
+└── Presentation.pdf
 └── README.md
 
 ---
